@@ -1,0 +1,20 @@
+
+body {
+  background-color: #121212;
+  color: #eee;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hero-section {
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #fff;
+  height: 100vh;
+}
+.section {
+  padding: 60px 0;
+}
+.section h2 {
+  margin-bottom: 20px;
+}
+.footer {
+  background-color: #0e0e0e;
+}
